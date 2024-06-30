@@ -1,0 +1,21 @@
+.head{
+      text-align: center;
+    background-color: aquamarine;
+    padding: 20px;
+}
+.main{
+    border: 2px solid black;
+     
+    padding: 20px;
+    text-align: center;
+}
+.foot{
+    background-color: #fea000 ;
+    text-align: center;
+    
+    
+}
+a{
+    text-decoration: none;
+    font-size: 34px;
+}
